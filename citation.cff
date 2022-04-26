@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Collins"
+  given-names: "Patrick"
+title: "Chainlink-mix"
+version: 3.0.0
+
+date-released: 2020-12-14
+url: "https://github.com/smartcontractkit/chainlink-mix"
